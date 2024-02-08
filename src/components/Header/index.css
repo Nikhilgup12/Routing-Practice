@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+  background-color: antiquewhite;
+}
+.nav-logo-container {
+  display: flex;
+}
+.nav-menu{
+  display: flex; 
+  list-style: none;
+}
